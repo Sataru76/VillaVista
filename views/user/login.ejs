@@ -1,0 +1,36 @@
+
+
+<% layout("/layouts/boilerplate") %>
+
+
+    <h3 class="class col-6   offset-3 mt-3 col sm-4">Login </h3>
+    <div class="row ">
+        <div class="class col-6 offset-3 col sm-4">
+
+
+            <form action="/login" method="POST" novalidate class="needs-validation">
+                <div class="mt-3">
+                    <label for="username" class="form-label">Username</label>
+                    <input type="text" name="username" class="form-control" required>
+                    
+                </div>
+                <div class="mt-3">
+                    <label for="password" class="form-label">password</label>
+                    <input type="password" name="password" class="form-control" required>
+                   
+                </div>
+                <button  class="btn btn-success mt-3">login</button>
+
+
+
+            </form>
+            <div>
+                <form action="/login" method="POST">
+                  <!-- Existing local login form -->
+                </form>
+                <a href="/auth/google">
+                  <button type="button">Login with Google</button>
+                </a>
+              </div>
+        </div>
+    </div>
