@@ -12,7 +12,8 @@ Vista – A beautiful view or scenic outlook.
 
 Together, VillaVista represents the idea of enjoying beautiful vacation homes with stunning views – exactly what the app helps users find and book!
 
-✨ Features
+# ✨ Features
+
 🔍 Browse and search vacation listings
 
 📆 Book stays with date selection
@@ -25,7 +26,10 @@ Together, VillaVista represents the idea of enjoying beautiful vacation homes wi
 
 🔐 Authentication & authorization with Passport.js
 
-🔧 Tech Stack
+
+
+
+# 🔧 Tech Stack
 Backend: Node.js, Express.js, MongoDB, Mongoose
 
 Frontend: EJS Templates, Bootstrap/CSS
@@ -36,8 +40,13 @@ File Storage: Cloudinary
 
 Email Service: Nodemailer
 
-🚀 Project Goal
+
+
+# 🚀 Project Goal
+
 VillaVista aims to simulate a real-world vacation rental platform, helping developers understand full-stack architecture, secure payment integration, and user-friendly booking flows.
+
+
 
 # Screenshots
 
