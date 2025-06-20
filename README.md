@@ -1,5 +1,5 @@
-npm install VillaVista
-🏡 VillaVista – Your Vacation Stay Companion
+
+#🏡 VillaVista – Your Vacation Stay Companion
 VillaVista is a full-stack vacation rental web application inspired by Airbnb. It allows users to explore, book, and manage vacation homes seamlessly. Built with Node.js, Express, MongoDB, and EJS templates, VillaVista delivers a smooth and dynamic booking experience.
 
 🌟 Project Name Meaning
